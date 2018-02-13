@@ -17,10 +17,10 @@ propagation is sort of the Bill Cosby of the Neural Network world because just l
 So you might be thinking, rhetorical question? right, well don't worry I was also concered about how I was going to achieve a functioning neural network system without the of sigmoid due to the fact that sigmoid consistantly causes gradient descent, which can lead to innacurate and sometimes completely false results after training a neural network on large datasets... Well ya bois gotcha covered, sigmoid just like cancer, is old news, nobody realy wants to hear how you can graph an S you dumb bescumbered MICROPHALLUS! Now you cure cancer and user ReLU.
 
 # Sigmoid
-While Sigmoid can easily be represented as:
+While Sigmoid can easily be represented as an 's' on a graph... or it would be better actualy user Sigmoid and not the letter s:
 ![alt text](sigmigdignig.svg)
 # ReLU (the right one).
-ReLU is this:
+ReLU is like a giant pyramid that fell over... or this:
 ![alt text](re.svg)
 # But who is this ReLU guy everyone is talking about?
 BUT WHAT DOES THAT MEAN you might be yelling into your $87 monitor you cheap goon.

@@ -13,6 +13,7 @@ and act like you own the thing... You gotta build one. Now at the time of writin
 # Propagation
 propagation is sort of the Bill Cosby of the Neural Network world because just like the Bill, it will hunt you down and change you forever. Propagation in this instance works by iterating through a set of data, data in a set... A DATASET gotcha, and changing each value based on a set of weights and biases... Sort of like how the American voting system works. and for backpropagation, just think propagation but drunk.
 # Sigmoid more like gradient descent amirite
+![alt text](imgs/boiSLIDE.jpg)
 So you might be thinking, rhetorical question? right, well don't worry I was also concered about how I was going to achieve a functioning neural network system without the of sigmoid due to the fact that sigmoid consistantly causes gradient descent, which can lead to innacurate and sometimes completely false results after training a neural network on large datasets... Well ya bois gotcha covered, sigmoid just like cancer, is old news, nobody realy wants to hear how you can graph an S you dumb bescumbered MICROPHALLUS! Now you cure cancer and user ReLU.
 
 # Sigmoid

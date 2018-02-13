@@ -41,4 +41,4 @@ The color format of neural network reminds me of a russet potato because it is c
 
 # About the Author
 ![alt text](imgs/head.png)
-I was born in south Dakota but grew up in the harse wastes of Antartica, during my time there I was stripped of all technology and lived like an eskimo Amish man, During this time that I was deprived of technology I learnet how to do the programms in the most useful language of all time gml. in this...... P R O G R A M M I N G language I pretty much became the Stephan King of programming languages... Given that I spent 24 hours a day in a chair.
+'I' or as the ladies like to call me "THE ALOC" was born in south Dakota but grew up in the harse wastes of Antartica, during my time there I was stripped of all technology and lived like an eskimo Amish man, During this time that I was deprived of technology I learnet how to do the programms in the most useful language of all time gml. in this...... P R O G R A M M I N G language I pretty much became the Stephan King of programming languages... Given that I spent 24 hours a day in a chair.

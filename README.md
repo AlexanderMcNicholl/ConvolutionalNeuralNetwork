@@ -35,3 +35,9 @@ Now you might be thinking... HOLD ON JUST A SECOND, you had me at russet potato 
 ![alt text](iggie.jpg)
 # But what color is my neural network going to be, and why is my capitalization so inconsistant?
 The color format of neural network reminds me of a russet potato because it is completely irrelevent and has nothing to do with potatoes (except for the ladder mentioned russet potato, due to the fact that it is indeed, a potato).
+
+
+
+## About the Author
+![alt text](imgs/head.png)
+I was born in south Dakota but grew up in the harse wastes of Antartica, during my time there I was stripped of all technology and lived like an eskimo Amish man, During this time that I was deprived of technology I learnet how to do the programms in the most useful language of all time gml. in this...... P R O G R A M M I N G language I pretty much became the Stephan King of programming languages... Given that I spent 24 hours a day in a chair.

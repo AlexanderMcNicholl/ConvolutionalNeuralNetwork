@@ -6,7 +6,7 @@ The following is an image of a russet potato.
 ![alt text](rp.jpg)
 # But who is this Neural Network guy everyone is talking about?
 Neural Networks are sort of the cars of neural networks, given that, just like cars, they are indeed an endangered species.
-So you might be thinking, how can I get my hands on a neural network? Well take it from me, you can just take an online course
+So you might be thinking, how can I get my hands on a neural network? Well take it from me, you can't just take an online course
 and act like you own the thing... You gotta build one. Now at the time of writing this, I have made a wopping 100% more neural networks than I had when I was not yet born, impressive right. Well lets start with the big bois. propagation and backpropagation.
 
 ![alt text](backprop.jpg)

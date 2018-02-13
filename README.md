@@ -35,7 +35,7 @@ Now you might be thinking... HOLD ON JUST A SECOND, you had me at russet potato 
 
 ![alt text](iggie.jpg)
 # But what color is my neural network going to be, and why is my capitalization so inconsistant?
-The color format of neural network reminds me of a russet potato because it is completely irrelevent and has nothing to do with potatoes (except for the ladder mentioned russet potato, due to the fact that it is indeed, a potato).
+The color format of neural network reminds me of a russet potato because it is completely irrelevent and has nothing to do with potatoes (except for the latter mentioned russet potato, due to the fact that it is indeed, a potato).
 
 
 

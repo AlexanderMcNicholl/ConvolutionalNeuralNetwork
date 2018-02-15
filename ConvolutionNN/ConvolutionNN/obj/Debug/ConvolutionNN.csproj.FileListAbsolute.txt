@@ -1,5 +1,0 @@
-c:\users\alex\documents\visual studio 2017\Projects\ConvolutionNN\ConvolutionNN\bin\Debug\ConvolutionNN.exe
-c:\users\alex\documents\visual studio 2017\Projects\ConvolutionNN\ConvolutionNN\bin\Debug\ConvolutionNN.pdb
-c:\users\alex\documents\visual studio 2017\Projects\ConvolutionNN\ConvolutionNN\obj\Debug\ConvolutionNN.csprojResolveAssemblyReference.cache
-c:\users\alex\documents\visual studio 2017\Projects\ConvolutionNN\ConvolutionNN\obj\Debug\ConvolutionNN.exe
-c:\users\alex\documents\visual studio 2017\Projects\ConvolutionNN\ConvolutionNN\obj\Debug\ConvolutionNN.pdb

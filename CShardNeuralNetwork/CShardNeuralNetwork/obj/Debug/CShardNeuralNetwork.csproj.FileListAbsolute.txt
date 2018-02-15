@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2017\Projects\CShardNeuralNetwork\CShardNeuralNetwork\obj\Debug\CShardNeuralNetwork.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\CShardNeuralNetwork\CShardNeuralNetwork\bin\Debug\CShardNeuralNetwork.exe
+c:\users\alex\documents\visual studio 2017\Projects\CShardNeuralNetwork\CShardNeuralNetwork\bin\Debug\CShardNeuralNetwork.pdb
+c:\users\alex\documents\visual studio 2017\Projects\CShardNeuralNetwork\CShardNeuralNetwork\obj\Debug\CShardNeuralNetwork.exe
+c:\users\alex\documents\visual studio 2017\Projects\CShardNeuralNetwork\CShardNeuralNetwork\obj\Debug\CShardNeuralNetwork.pdb

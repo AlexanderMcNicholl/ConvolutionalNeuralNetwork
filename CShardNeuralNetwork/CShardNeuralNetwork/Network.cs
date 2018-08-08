@@ -155,21 +155,3 @@ namespace CShardNeuralNetwork {
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//Why did you scroll past the last bracket you nunce

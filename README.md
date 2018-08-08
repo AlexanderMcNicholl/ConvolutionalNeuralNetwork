@@ -1,3 +1,3 @@
 # ConvolutionalNeuralNetwork
 
-A convolutional Neural Network built in java.
+A convolutional Neural Network written in C#
